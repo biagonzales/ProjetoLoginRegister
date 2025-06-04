@@ -1,0 +1,6 @@
+@ProjetoLoginRegister.Api_HostAddress = http://localhost:5140
+
+GET {{ProjetoLoginRegister.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
